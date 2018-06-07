@@ -6,6 +6,8 @@ or a specified vector by a specified angle.
 Call functions xrotate, yrotate, zrotate, and vrotate to rotate 3-dimensional
 arrays how you need to.
 
+Running rotations.py shows a basic example of how it works. ('python rotations.py') No additional input necessary.
+
 ## How-To
 positions = [[x1, y1, z1], [x2, y2, z2], [x3, y3, z3],..., [xn, yn, zn]]
 
